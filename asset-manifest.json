@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AC-Remote.github.io/static/css/main.a1e137ca.css",
+    "main.js": "/AC-Remote.github.io/static/js/main.15609b5f.js",
+    "index.html": "/AC-Remote.github.io/index.html",
+    "main.a1e137ca.css.map": "/AC-Remote.github.io/static/css/main.a1e137ca.css.map",
+    "main.15609b5f.js.map": "/AC-Remote.github.io/static/js/main.15609b5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1e137ca.css",
+    "static/js/main.15609b5f.js"
+  ]
+}
